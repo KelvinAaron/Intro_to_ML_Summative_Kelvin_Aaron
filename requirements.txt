@@ -1,0 +1,14 @@
+# Exact versions from the Google Colab runtime used for the experiments.
+# google.colab is preinstalled in Colab and is not a pip package.
+# wandb is optional: the notebook runs without it.
+
+gdown==5.2.2
+h5py==3.14.0
+joblib==1.6.0
+matplotlib==3.10.0
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.6.1
+tensorflow==2.21.0
+wandb==0.28.1
+xgboost==3.4.1
